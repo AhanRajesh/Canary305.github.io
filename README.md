@@ -1,2 +1,2 @@
-# AhanRajesh.github.io
+# CrazyCanary.github.io
 Project Website
